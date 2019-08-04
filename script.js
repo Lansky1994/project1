@@ -1,3 +1,4 @@
+/*
 let num = 93;
 switch (true) {
     case num <= 49:
@@ -17,4 +18,7 @@ switch (true) {
         break;
 }
 (num == 50) ? console.log('Верно') : console.log('Неверно');
+
+console.log(console);
+*/
 
