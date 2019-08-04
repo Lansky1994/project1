@@ -24,16 +24,19 @@ body{
 }
 
 .first-section{
+    background-image: url(/Users/lansky/Desktop/git_tutorial/work/project_2/doroga.jpg);
     background-image: url(/doroga.jpg);
 
 }
 
 .second-section{
+    background-image: url(/Users/lansky/Desktop/git_tutorial/work/project_2/doroga2.jpg);
     background-image: url(/doroga2.jpg);
 
 }
 
 .third-section{
+    background-image: url(/Users/lansky/Desktop/git_tutorial/work/project_2/doroga3.jpg);
     background-image: url(/doroga3.jpg);
 
 }
