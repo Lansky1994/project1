@@ -1,7 +1,6 @@
-/*h1{
+h1{
     height: 100vh;
     color: azure;
-    border: 5px red solid;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -9,7 +8,7 @@
 body{
     background-color: black;
 }
-*/
+
 .section{
     display: flex;
     align-items: center;
